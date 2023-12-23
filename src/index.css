@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+}
+body {
+  margin: 0;
+  font-family: "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  background-color: #f4f5f8;
+}
+
+
+@media only screen and (max-width : 800px) {
+  .container-1{
+    width: 200px;
+  }
+}
